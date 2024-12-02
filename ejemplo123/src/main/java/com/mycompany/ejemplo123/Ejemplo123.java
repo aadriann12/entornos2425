@@ -12,5 +12,6 @@ public class Ejemplo123 {
 
     public static void main(String[] args) {
         System.out.println("chao!");
+        System.out.println("jimena es mi compañera");
     }
 }
