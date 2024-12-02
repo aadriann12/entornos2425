@@ -11,6 +11,6 @@ package com.mycompany.ejemplo123;
 public class Ejemplo123 {
 
     public static void main(String[] args) {
-        System.out.println("Holaa!");
+        System.out.println("adios!");
     }
 }
